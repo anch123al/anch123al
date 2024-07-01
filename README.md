@@ -1,8 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5612AQH0ZLnnr-MrrA/article-cover_image-shrink_600_2000/0/1711260192637?e=2147483647&v=beta&t=24VCqnhHe-zf8sgHPOgUsarLNDmhqyc1-RxiVTyLS9I)]
-<h1 align="center">Hi 👋, I'm Anchal Sachan</h1>
+<h1 align="center">Hi 👋 I'm Anchal Sachan</h1>
 <h3 align="center">Hi I am Anchal Sachan, 🌐💡 Full Stack Web Developer 🛠 | Tech Enthusiast 🚀 Welcome to my GitHub! As a Full Stack Web Developer, I specialize in crafting interactive and dynamic web applications that seamlessly merge elegant design with efficient functionality. My repository is a hub for innovative projects, code snippets, and a playground for continuous learning and growth in the tech space.</h3>
 <img align = "right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/03/29/36/40/360_F_329364028_wVuGGblS5BxfbbQYiPMZzpzOuAYUBkzx.jpg">
-
 
 - 🌱 I’m currently learning **Mern**
 
@@ -10,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/anchal-sachan-861287229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anchal-sachan-861287229" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
