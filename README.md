@@ -3,7 +3,7 @@
 <h3 align="center">Hi I am Anchal Sachan, 🌐💡 Full Stack Web Developer 🛠 | Tech Enthusiast 🚀 Welcome to my GitHub! As a Full Stack Web Developer, I specialize in crafting interactive and dynamic web applications that seamlessly merge elegant design with efficient functionality. My repository is a hub for innovative projects, code snippets, and a playground for continuous learning and growth in the tech space.</h3>
 <img align = "right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/03/29/36/40/360_F_329364028_wVuGGblS5BxfbbQYiPMZzpzOuAYUBkzx.jpg">
 
-- 🌱 I’m currently learning **Mern**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 📫 How to reach me **anchalsachan945@gmail.com**
 
