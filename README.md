@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋 I'm Anchal Sachan</h1>
 <h3 align="center">👋 Hi, I’m Anchal Sachan
 💻 Software Engineer | Aspiring Data Analyst | Tech Enthusiast
+</br>
 📊 Passionate about turning data into actionable insights and building efficient software solutions.
 Welcome to my GitHub!
 Here, you'll find a collection of projects ranging from data analytics dashboards and machine learning models to backend development and automation scripts. I enjoy solving real-world problems using data and code — with a strong foundation in Python, SQL, Java, and Data Visualization tools like Power BI and Excel.
