@@ -1,6 +1,12 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5612AQH0ZLnnr-MrrA/article-cover_image-shrink_600_2000/0/1711260192637?e=2147483647&v=beta&t=24VCqnhHe-zf8sgHPOgUsarLNDmhqyc1-RxiVTyLS9I)]
 <h1 align="center">Hi 👋 I'm Anchal Sachan</h1>
-<h3 align="center">Hi I am Anchal Sachan, 🌐💡 Full Stack Web Developer 🛠 | Tech Enthusiast 🚀 Welcome to my GitHub! As a Full Stack Web Developer, I specialize in crafting interactive and dynamic web applications that seamlessly merge elegant design with efficient functionality. My repository is a hub for innovative projects, code snippets, and a playground for continuous learning and growth in the tech space.</h3>
+<h3 align="center">👋 Hi, I’m Anchal Sachan
+💻 Software Engineer | Aspiring Data Analyst | Tech Enthusiast
+📊 Passionate about turning data into actionable insights and building efficient software solutions.
+Welcome to my GitHub!
+Here, you'll find a collection of projects ranging from data analytics dashboards and machine learning models to backend development and automation scripts. I enjoy solving real-world problems using data and code — with a strong foundation in Python, SQL, Java, and Data Visualization tools like Power BI and Excel.
+</h3>
+📁 This space is a reflection of my journey in software development and data analytics, featuring academic projects, personal experiments, and continuous learning.</h3>
 <img align = "right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/03/29/36/40/360_F_329364028_wVuGGblS5BxfbbQYiPMZzpzOuAYUBkzx.jpg">
 
 - 🌱 I’m currently learning **Data Analytics**
